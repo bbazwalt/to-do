@@ -6,9 +6,9 @@ To-Do Web App
 
 • Designed REST APIs &amp; SQLite database for CRUD Operations like add, view, update &amp; delete to-dos
 
-## Empty To-Do List:
+## Empty To-Dos:
 
-![Alt Text](https://github.com/bbazwalt/to-do-app/blob/main/screenshots/Empty%20To-Do%20List.png)
+![Alt Text](https://github.com/bbazwalt/to-do-app/blob/main/screenshots/Empty%20To-Dos.png)
 
 ## Adding New To-Do:
 
