@@ -6,7 +6,7 @@ import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import { MdCheckBox, MdCheckBoxOutlineBlank, MdEdit, MdDelete } from "react-icons/md";
 
-export default function TodoList({ todos = [], setTodos }) {
+const TodoList = ({ todos = [], setTodos }) => {
     const [show, setShow] = useState(false);
     const [record, setRecord] = useState(null);
 
@@ -123,3 +123,5 @@ export default function TodoList({ todos = [], setTodos }) {
         </Modal>
     </div>
 }
+
+export default TodoList;

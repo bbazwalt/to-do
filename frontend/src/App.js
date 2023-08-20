@@ -6,7 +6,7 @@ import axios from "axios";
 import TodoList from "./components/TodoList"
 import TodoForm from "./components/TodoForm";
 
-function App() {
+const  App = () => {
   const [todos, setTodos] = useState([]);
 
   useEffect(() => {

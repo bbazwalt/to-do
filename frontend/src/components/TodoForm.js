@@ -5,7 +5,7 @@ import FormControl from "react-bootstrap/FormControl";
 import Form from "react-bootstrap/Form";
 import axios from "axios";
 
-export default function TodoForm({ todos, setTodos }) {
+const TodoForm = ({ todos, setTodos }) => {
     const [name, setName] = useState("");
 
     const handleChange = e => {
@@ -45,3 +45,5 @@ export default function TodoForm({ todos, setTodos }) {
         </InputGroup>
     </Form>
 }
+
+export default TodoForm;
