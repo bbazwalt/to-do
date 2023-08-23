@@ -2,7 +2,7 @@
 
 To-Do Web App
 
-• Tech Stack: Django, React.js, Bootstrap, SQLite
+• Tech Stack: Django, JavaScript, React, Bootstrap, SQLite
 
 • Wrote REST APIs &amp; designed SQLite database for CRUD Operations like add, view, update &amp; delete to-dos
 
