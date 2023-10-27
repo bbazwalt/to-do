@@ -4,7 +4,7 @@ To-Do Web App
 
 • Tech Stack: Django, JavaScript, React, Bootstrap, SQLite
 
-• Implemented features like adding, updating, & deleting to-dos. 
+• Implemented features like adding, updating, & deleting to-dos
 
 • Arranged to-dos by completion status with checkbox to mark as completed
 
