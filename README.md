@@ -4,7 +4,10 @@ To-Do Web App
 
 • Tech Stack: Django, JavaScript, React, Bootstrap, SQLite
 
-• Wrote REST APIs for CRUD Operations like add, view, update &amp; delete to-dos
+• Implemented features like adding, updating, & deleting to-dos. 
+
+• Arranged to-dos by completion status with checkbox to mark as completed
+
 
 ## Empty To-Dos:
 
