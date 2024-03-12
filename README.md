@@ -11,16 +11,16 @@ To-Do Web App
 
 ## Empty To-Dos:
 
-![Empty To-Dos](https://github.com/bbazwalt/to-do/blob/main/screenshots/Empty%20To-Dos.png)
+![Empty To-Dos](https://github.com/bbazwalt/to-do/blob/main/screenshots/empty-to-dos.png)
 
 ## Adding New To-Do:
 
-![Adding New To-Do](https://github.com/bbazwalt/to-do/blob/main/screenshots/Adding%20New%20To-Do.png)
+![Adding New To-Do](https://github.com/bbazwalt/to-do/blob/main/screenshots/adding-new-to-do.png)
 
 ## Striking Out Completed To-Dos:
 
-![Striking Out Completed To-Dos](https://github.com/bbazwalt/to-do/blob/main/screenshots/Striking%20Out%20Completed%20To-Dos.png)
+![Striking Out Completed To-Dos](https://github.com/bbazwalt/to-do/blob/main/screenshots/striking-out-completed-to-dos.png)
 
 ## Updating Existing To-Do:
 
-![Updating Existing To-Do](https://github.com/bbazwalt/to-do/blob/main/screenshots/Updating%20Existing%20To-Do.png)
+![Updating Existing To-Do](https://github.com/bbazwalt/to-do/blob/main/screenshots/updating-existing-to-do.png)
