@@ -2,7 +2,7 @@
 
 To-Do Web App
 
-• Tech Stack: Django, JavaScript, React, Bootstrap & PostgreSQL.
+• Tech Stack: Django, JavaScript, React, Bootstrap & MySQL.
 
 • Implemented to-do functionalities such as adding, updating & deleting to-dos.
 
